@@ -1,5 +1,10 @@
 # hello-world
 introduction
-HI
 
-My name is Amelia and I have no idea what I'm doing
+public class HelloWorld
+{
+  public static void main(String[] args)
+  {
+    System.out.println ("Hello, World!");
+  }
+}
